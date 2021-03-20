@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17ff6f83-1a2f-42c2-90b3-634a207d5074" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jGop9RqgOPzslkMpGyO2Uftp1B" />
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="task3" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.task10">
+    <configuration name="displaydeck" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="assignment8.DisplayDeck" />
+      <module name="tuc" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mockexam" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="mockexam.Task2" />
+      <module name="tuc" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task10" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="assignment10.Main" />
+      <module name="tuc" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="assignment.Assignment2" />
+      <module name="tuc" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="assignment3.Main" />
+      <module name="tuc" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task4" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="assignment4.Assignment4" />
+      <module name="tuc" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task5" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="assignment5.Assignment5" />
+      <module name="tuc" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task6" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="assignment6.Main" />
+      <module name="tuc" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task7" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="assignment7.Assignment7" />
+      <module name="tuc" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task8" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="assignment8.Quicksort" />
+      <module name="tuc" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task9" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="assignment9.Assignment9" />
+      <module name="tuc" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="oldexam.MyList" />
+      <module name="tuc" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.task4" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.task5" />
+      <item itemvalue="Application.mockexam" />
+      <item itemvalue="Application.task6" />
+      <item itemvalue="Application.task7" />
+      <item itemvalue="Application.task8" />
+      <item itemvalue="Application.task9" />
+      <item itemvalue="Application.task10" />
+      <item itemvalue="Application.displaydeck" />
+      <item itemvalue="Application.task2" />
+      <item itemvalue="Application.task3" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17ff6f83-1a2f-42c2-90b3-634a207d5074" name="Default Changelist" comment="" />
+      <created>1605362017733</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605362017733</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/oldexam/MyList.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/assignment7/LinkedListCustom.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/assignment8/Card.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/assignment8/Card.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/assignment9/DocumentOffice.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/assignment10/Wizard.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/assignment10/Wizard.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
